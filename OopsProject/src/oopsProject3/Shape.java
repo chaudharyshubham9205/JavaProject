@@ -1,3 +1,4 @@
+package oopsProject3;
 /* 1.Create an interface Shape with  abstract method int area().
   classes should implement this interface---
 a.Square -----with one data member length ,class should implement this interface Shape,

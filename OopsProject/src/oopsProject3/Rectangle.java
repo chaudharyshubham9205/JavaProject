@@ -1,3 +1,4 @@
+package oopsProject3;
 
 public class Rectangle extends Square implements Shape {
 public int width=15;
